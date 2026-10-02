@@ -56,7 +56,7 @@ public class LoginTest {
 
     
 //     after putting a valid Demo Web Shop account
-//      in config.properties.
+
      
      @Test
      public void verifyValidLogin() {

@@ -1,0 +1,34 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Test reports
+surefire-reports/
+test-output/
+
+# Playwright
+test-results/
+playwright-report/
+screenshots/
+
+# Logs
+*.log
+
+# Environment/secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
